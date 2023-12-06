@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         ibag 包包网站隐藏图片&无效内容
-// @namespace    https://github.com/ericecchou/tampermonkey-plugin
+// @namespace    https://github.com/lenchou95/tampermonkey-plugin
 // @version      0.1
 // @description  Hide images, captions, H2 headings, additional content, and meta on a specific domain
 // @author       You
